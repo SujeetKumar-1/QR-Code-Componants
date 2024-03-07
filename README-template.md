@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SujeetKumar-1/QR-Code-Componants/](https://your-solution-url.com)
+- Live Site URL: [https://sujeetkumar-1.github.io/QR-Code-Componants/](https://your-live-site-url.com)
 
 ## My process
 
